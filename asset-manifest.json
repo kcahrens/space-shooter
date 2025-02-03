@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/space-shooter/static/css/main.c0536a0e.css",
+    "main.js": "/space-shooter/static/js/main.54fc979e.js",
+    "index.html": "/space-shooter/index.html",
+    "main.c0536a0e.css.map": "/space-shooter/static/css/main.c0536a0e.css.map",
+    "main.54fc979e.js.map": "/space-shooter/static/js/main.54fc979e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0536a0e.css",
+    "static/js/main.54fc979e.js"
+  ]
+}
