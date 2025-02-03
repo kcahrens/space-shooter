@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/space-shooter/static/css/main.c0536a0e.css",
-    "main.js": "/space-shooter/static/js/main.54fc979e.js",
+    "main.js": "/space-shooter/static/js/main.5a87f632.js",
     "index.html": "/space-shooter/index.html",
     "main.c0536a0e.css.map": "/space-shooter/static/css/main.c0536a0e.css.map",
-    "main.54fc979e.js.map": "/space-shooter/static/js/main.54fc979e.js.map"
+    "main.5a87f632.js.map": "/space-shooter/static/js/main.5a87f632.js.map"
   },
   "entrypoints": [
     "static/css/main.c0536a0e.css",
-    "static/js/main.54fc979e.js"
+    "static/js/main.5a87f632.js"
   ]
 }
